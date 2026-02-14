@@ -1,0 +1,13 @@
+venv/
+node_modules/
+dist/
+build/
+__pycache__/
+*.db
+*.sqlite3
+android/.gradle/
+android/app/build/
+android/local.properties
+.env
+.vscode/
+.idea/
