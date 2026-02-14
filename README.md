@@ -10,7 +10,7 @@
 
 ## Team Name
 
-**[Add your team name]**
+**SecuPro**
 
 ## Team Members
 
@@ -158,8 +158,10 @@ python trigger_ai.py
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="1729" height="1079" alt="image" src="https://github.com/user-attachments/assets/7ffae147-653f-4f20-9e91-c55eceeba105" />
+<img width="1609" height="822" alt="image" src="https://github.com/user-attachments/assets/35e1d172-ea83-4a8b-9be2-8edf1a962aa5" />
 
+https://youtu.be/u-WnCV7tWIs?si=_uRP-1undLQoCxnQ
 ---
 
 ## Future Scope
